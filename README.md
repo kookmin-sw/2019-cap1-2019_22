@@ -26,7 +26,7 @@ Wifi를 이용한 모션감지 프로그램을 만듭니다.
 ### 5. 기타
 
 추가적인 내용은 자유롭게 작성하세요.
-
+![Image of WIFI](https://github.com/kookmin-sw/2019-cap1-2019_22/WIFI.png)
 
 ## Markdown을 사용하여 내용꾸미기
 

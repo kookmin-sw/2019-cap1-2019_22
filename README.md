@@ -1,3 +1,5 @@
+![WIFI Image](/Images/WIFI.png)
+Format: !background-image(url)
 
  background-image: url(/Images/WIFI.png)
  # Slide with background image

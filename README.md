@@ -1,8 +1,8 @@
 ![WIFI Image](/Images/WIFI.png)
 Format: !background-image(url)
 
- background-image: (/Images/WIFI.png)
  # Slide with background image
+ background-image: (/Images/WIFI.png)
  background-position: center
  background-repeat: no-repeat
  background-size: cover

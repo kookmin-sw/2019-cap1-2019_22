@@ -1,5 +1,5 @@
 
- background-image: url(Images/WIFI.png)
+ background-image: url(/Images/WIFI.png)
  # Slide with background image
  background-position: center
  background-repeat: no-repeat

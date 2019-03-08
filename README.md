@@ -26,13 +26,11 @@ Wifi를 이용한 모션감지 프로그램을 만듭니다.
 ### 5. 기타
 
 추가적인 내용은 자유롭게 작성하세요.
-.WIFI-Image{
  background-image: url("/Images/WIFI.png");
  height: 500px;
  background-position: center
  background-repeat: no-repeat
  background-size: cover;
-}
 
 ## Markdown을 사용하여 내용꾸미기
 

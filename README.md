@@ -1,8 +1,8 @@
  background-image: url(/Images/WIFI.png)
+ # Slide with background image
  background-position: center;
  background-repeat: no-repeat;
  background-size: cover;
- # Slide with background image
  
 
 - index.md 예시보고 수정.

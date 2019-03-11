@@ -1,9 +1,4 @@
- .right[![WIFI-Image](/Images/WIFI.png)
- background-image: url(/Images/WIFI.png)
- background-position: center;
- background-repeat: no-repeat;
- background-size: cover;]
- 
+
 
 - index.md 예시보고 수정.
 - 수정후 팀페이지 확인하여 점검.

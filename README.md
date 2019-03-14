@@ -14,7 +14,7 @@ https://github.com/kookmin-sw/2019-cap1-2019_22
 ### 2. 소개 영상
 
 <p align="center">
-<iframe width="960" height="540" src="https://www.youtube.com/embed/gBwz4oIDKAg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<a href="https://www.youtube.com/embed/gBwz4oIDKAg"><img height="960" width="540" src="/Images/MDW.PNG"></a>
 </p>
 
 ### 3. 팀 소개

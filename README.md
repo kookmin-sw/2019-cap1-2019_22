@@ -1,5 +1,6 @@
-
-<p><img src="/Images/MDW.PNG" align="center"></p>
+<div align="center">
+<p><img src="/Images/MDW.PNG"></p>
+</div>
 <br/>
 
 https://github.com/kookmin-sw/2019-cap1-2019_22
@@ -14,6 +15,7 @@ https://github.com/kookmin-sw/2019-cap1-2019_22
 ### 3. 팀 소개
 
 팀명: M.Fi(Motion Fi)
+<br/>
 <br/>
 팀장: 안재관<br/>
 E-Mail:<br/>

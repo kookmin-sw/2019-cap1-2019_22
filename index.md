@@ -21,7 +21,7 @@ E-Mail: ggstork@gmail.com
 E-Mail: gini0723@gmail.com
 
 팀원: 김용환 
-E-Mail:
+E-Mail: brightface@hanmail.net
 
 팀원: 이종호
 E-Mail:

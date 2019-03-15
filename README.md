@@ -30,7 +30,7 @@ E-Mail: ggstork@gmail.com<br/>
 E-Mail: gini0723@gmail.com<br/>
 
 팀원: 김용환<br/>
-E-Mail: brightface@kookmin.ac.kr<br/>
+E-Mail: brightface@hanmail.net<br/>
 
 팀원: 이종호<br/>
 E-Mail: asqqwww1@gmail.com<br/>

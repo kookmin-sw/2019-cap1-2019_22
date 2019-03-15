@@ -6,7 +6,7 @@
 https://github.com/kookmin-sw/2019-cap1-2019_22
 
 ### 1. 프로젝트 소개
-저희 M.Fi 팀은 WiFi CSI를 이용하여 사람의 동작 감지 서비스인 MDW를 만듭니다.<br/>
+ 저희 M.Fi 팀은 WiFi CSI를 이용하여 사람의 동작 감지 서비스인 MDW(Motion Detecting WiFi)를 만듭니다.<br/>
 현재의 CCTV와 같은 광학적 감지장비는 시각적 제약이 있는 상황에서는 성능을 모두 발휘하기 어려울 뿐만 아니라<br/>
 사생활 침해라는 부작용을 가지고 있습니다. 반면 CSI를 이용한 감지 시스템은 WiFi 채널의 변화를 감지하여 사람의 <br/>
 상태를 파악하는 기술이므로 시각적 제약이 없을 뿐 아니라 사생활 침해가 적다는 장점을 가지고 있습니다.<br/>
@@ -36,6 +36,30 @@ E-Mail: brightface@hanmail.net<br/>
 E-Mail: asqqwww1@gmail.com<br/>
 
 ### 4. 사용법
+<div align="center">
+<p><img src="/Images/RockPro64.jpg"></p>
+</div>
+<br/>
+ RockPro64를 이용하여 모듈을 소형합니다.</br>
+
+<div align="center">
+<p><img src="/Images/aws.jpg"></p>
+</div>
+<br/>
+AP 에서 사람의 움직임이 감지되면 AWS(Amazoon Web Service) 로 알람을 전송합니다.</br>
+AWS 에서 알람을 수신 받으면 이 알람을 사용자의 Application 로 전송합니다.</br>
+이때 AWS는 Node.js 를 이용해서 개발합니다.</br>
+
+<div align="center">
+<p><img src="/Images/flutter.jpg"></p>
+</div>
+<br/>
+이때 알람을 수신받는 Application은 Flutter 를 이용해서 개발합니다.</br>
+언어는 Dart를 사용할 예정입니다.</br>
+
+ 
+ 
+
 
 ### 5. 기타
 

@@ -24,19 +24,18 @@ https://github.com/kookmin-sw/2019-cap1-2019_22
 <br/>
 <br/>
 팀장: 안재관<br/>
-E-Mail:<br/>
+E-Mail: ggstork@gmail.com<br/>
 
 팀원: 김상원<br/> 
 E-Mail: gini0723@gmail.com<br/>
 
 팀원: 김용환<br/>
-E-Mail:<br/>
+E-Mail: brightface@kookmin.ac.kr<br/>
 
 팀원: 이종호<br/>
-E-Mail:<br/>
+E-Mail: asqqwww1@gmail.com<br/>
 
 ### 4. 사용법
-
 
 ### 5. 기타
 

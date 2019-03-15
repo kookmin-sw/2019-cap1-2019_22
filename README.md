@@ -44,7 +44,8 @@ E-Mail:<br/>
 Team 'M.Fi' is using 'WiFi CSI' to make 'Motion Dectecting WiFi' called MDW.<br/>
 Nowdays the device like 'CCTV' that based on optical, is can not working well when it have some visual restriction.<br/>
 And it also has side effect, like Privacy infringement.<br/>
-However the system using 'CSI' can dectect change of WiFi channel.<br/>
-Using this sequence, 'CSI' can detecting humen's movement.</br>
-Because of it was based on radio signal , it have no side effect. And free from the optical limit.
+So we condsider different way of monitoring system. That was 'MDW'.<br/>
+The system using 'CSI' can dectect change of WiFi channel.<br/>
+Using this way, system can detecting humen's movement.</br>
+And because of it was based on radio signal , it have no side effect. Also free from the optical limit.
 

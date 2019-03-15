@@ -15,7 +15,7 @@ WiFi CSI를 이용한 사람의 행동을 인식하여 감지하는 서비스를
 팀명: 
 
 팀장: 안재관 
-E-Mail: 
+E-Mail: ggstork@gmail.com
 
 팀원: 김상원 
 E-Mail: gini0723@gmail.com

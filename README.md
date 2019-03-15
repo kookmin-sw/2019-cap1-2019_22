@@ -11,6 +11,7 @@ https://github.com/kookmin-sw/2019-cap1-2019_22
 사생활 침해라는 부작용을 가지고 있습니다. 반면 CSI를 이용한 감지 시스템은 WiFi 채널의 변화를 감지하여 사람의 <br/>
 상태를 파악하는 기술이므로 시각적 제약이 없을 뿐 아니라 사생활 침해가 적다는 장점을 가지고 있습니다.<br/>
 
+
 ### 2. 소개 영상
 
 <p align="center">
@@ -39,4 +40,11 @@ E-Mail:<br/>
 
 ### 5. 기타
 
+### Abstract
+Team 'M.Fi' is using 'WiFi CSI' to make 'Motion Dectecting WiFi' called MDW.<br/>
+Nowdays the device like 'CCTV' that based on optical, is can not working well when it have some visual restriction.<br/>
+And it also has side effect, like Privacy infringement.<br/>
+However the system using 'CSI' can dectect change of WiFi channel.<br/>
+Using this sequence, 'CSI' can detecting humen's movement.</br>
+Because of it was based on radio signal , it have no side effect. And free from the optical limit.
 

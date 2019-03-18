@@ -1,0 +1,40 @@
+시스템 필요사항
+
+- Operating Systems: Windows 7 SP1 or later (64-bit)
+- Disk Space: 400 MB (does not include disk space for IDE/tools).
+- Tools: Flutter depends on these tools being available in your environment.
+	- Windows PowerShell 5.0 or newer (this is pre-installed with Windows 10)
+	- Git for Windows 2.x, with the Use Git from the Windows Command Prompt option.
+
+	  If Git for Windows is already installed, make sure you can run git commands from the command prompt or PowerShell.
+
+
+
+
+
+1. Flutter SDK 설치
+
+https://flutter.dev/docs/get-started/install/windows
+설치 후 압축해제
+
+
+2. 환경 변수 설정
+
+실행창에 sysdm.cpl 으로 시스템 속성창 열고,
+
+고급 탭에 환경변수 클릭, Flutter 압축경로 입력 (예 - C:\Flutter\bin)
+
+
+3. Android Studio 설정
+
+Android Studio 프로젝트 생성,
+
+File -> Setting -> Plugins -> Browse repositories -> flutter 검색 후 install,
+
+그 후 Android Studio 재시작
+
+
+
+4. File -> New Project Flutter로 프로젝트 생성
+
+끝

@@ -1,0 +1,2 @@
+Desktop 에서 sudo bash setup_monitor_csitest.sh
+linux-80211n-csitool-supplementary-netlink 에서 sudo ./log_tofile (파일명)

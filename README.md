@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 <p><img src="/doc/Images/MDW.PNG"></p>
 </div>
 <br/>

@@ -64,11 +64,14 @@ AWS 에서 알람을 수신 받으면 이 알람을 사용자의 Application 로
 ### 5. 기타
 
 ### Abstract
-Team 'M.Fi' is using 'WiFi CSI' to make 'Motion Dectecting WiFi' called MDW.<br/>
+Team 'M.Fi' is using 'WiFi CSI' to make 'Motion Dectecting WiFi' called 'MDW'.<br/>
 Nowdays the device like 'CCTV' that based on optical, is can not working well when it have some visual restriction.
 And it also has side effect, like Privacy infringement.
 So we condsider different way of monitoring system. That was 'MDW'.
-The system using 'CSI' can dectect change of WiFi channel.
+We use two access point to recognize 'CSI'.
+The 'CSI' mean 'Channel State Information'. That include Wifi signal information such as amplitude, phase, and SNRdb.
 Using this way, system can detecting humen's movement.
-And because of it was based on radio signal , it have no side effect. Also free from the optical limit.
+And because of it was based on radio signal , it have no side effect. Also free from the optical limit.<br/>
+
+ User can know what happend in his own place at the outside of there. SO the user can use this system to prevent some danger stituation. And in emergency situation user can react fast and clearly.
 

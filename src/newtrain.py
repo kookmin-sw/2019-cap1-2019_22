@@ -113,7 +113,7 @@ x_empty, y_empty = shuffle(x_empty, y_empty, random_state=0)
 #x_standup, y_standup = shuffle(x_standup, y_standup, random_state=0)
 #x_walk, y_walk = shuffle(x_walk, y_walk, random_state=0)
 
-
+#k_foid_variables size is 10 to 3 because of time
 #k_fold
 kk = 3
 

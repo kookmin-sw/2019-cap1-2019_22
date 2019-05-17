@@ -26,7 +26,7 @@ threshold = 60
 # Parameters
 learning_rate = 0.0001  
 training_iters = 200
-batch_size = 30
+batch_size = 30 #batch_size 300 -> 30 (the present num_example_size is 56 and then the example_size must be bigger than batch size)
 display_step = 100
 
 # Network Parameters
@@ -234,6 +234,7 @@ with tf.Session(config=tf.ConfigProto(log_device_placement=True)) as sess:
         print(sk.metrics.confusion_matrix(y_true, y_pred))
         confusion = sk.metrics.confusion_matrix(y_true, y_pred)
         confusion_sum = confusion_sum + confusion
+        ## there can't be broadcasted (5,5) (3,3) so we had to change confusion_sum
 
         #Save the Accuracy curve
         fig = plt.figure(2 * i - 1)

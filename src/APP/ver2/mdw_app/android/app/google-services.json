@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "172889139948",
+    "firebase_url": "https://mdwapp-6ef09.firebaseio.com",
+    "project_id": "mdwapp-6ef09",
+    "storage_bucket": "mdwapp-6ef09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172889139948:android:af880243d22b51d8",
+        "android_client_info": {
+          "package_name": "com.mdw.mdw_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "172889139948-k7i9h17cmh4li1bgvo9k97j9nban9ec6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mdw.mdw_app",
+            "certificate_hash": "273f2a181202ce515eb14391c83904cb22fd7a8a"
+          }
+        },
+        {
+          "client_id": "172889139948-ihuc7lepev3j1qstqilosfg1bsm03ndd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_xzaJsP-JYow8xd37m2x73UUFlPrgWfg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "172889139948-ihuc7lepev3j1qstqilosfg1bsm03ndd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

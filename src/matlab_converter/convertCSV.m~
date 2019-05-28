@@ -1,0 +1,53 @@
+
+it = 1; %% it : �������� ���� ������ ã�� iterator
+
+while(it <= 20) %���ϰ����� ���� ���ڸ� �޸� �Ѵ�.
+    
+ARR_1 = zeros(1,30);
+ARR_2 = zeros(1,30);
+ARR_3 = zeros(1,30);
+ARR_OUT = zeros(4900,90);
+
+k = 1;
+t = 1; 
+
+
+csvAddress = sprintf('%s%d%s', '/home/kimyonghwan/2019_Final/src/matlab_converter/190528_Dataset2/csv/190528_2_laydown',it,'.dat');
+strt = sprintf('%s%d%s', '/home/kimyonghwan/2019_Final/src/matlab_converter/190528_Dataset2/190528_2_l',it,'.dat');
+
+csi_trace = read_bf_file(strt);
+disp(strt);
+while(k <= 4900)
+
+csi_entry = csi_trace{t};
+csi = get_scaled_csi(csi_entry);
+
+A = abs(csi);
+%B = db(A);
+
+i = 1;
+while(i<=30)
+   
+    ARR_1(i) = A(:,1,i);
+    ARR_2(i) = A(:,2,i);
+    ARR_3(i) = A(:,3,i);
+    i = i + 1;
+    
+end
+
+ARR_FINAL = [ARR_1,ARR_2,ARR_3]; %��ġ��
+ARR_OUT(k,:) = ARR_FINAL;
+
+%disp(k);
+k = k + 1;
+t = t + 1;
+end
+
+
+string = sprintf('%s%s', csvAddress, '.csv');
+csvwrite(string , ARR_OUT);
+it = it + 1;
+
+end
+
+

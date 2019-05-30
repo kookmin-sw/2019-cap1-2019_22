@@ -105,7 +105,7 @@ x_sit, y_sit = shuffle(x_sit, y_sit, random_state=0)
 #k_fold, cross validation
 kk = 5
 
-# Launch the graph
+# Launch the graph.
 with tf.Session(config=tf.ConfigProto(log_device_placement=True)) as sess:
     for i in range(kk):
 
